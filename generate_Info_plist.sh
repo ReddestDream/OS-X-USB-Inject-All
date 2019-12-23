@@ -91,6 +91,7 @@ mergeModelData "iMac18,1"
 mergeModelData "iMac18,2"
 mergeModelData "iMac18,3"
 mergeModelData "iMac19,1"
+mergeModelData "iMac19,2"
 
 # iMacPro
 mergeModelData "iMacPro1,1"
